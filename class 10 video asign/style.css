@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color:red;
+}
+p{
+    background-color: green;
+}
+div{
+    background-color: blueviolet;
+}
+a{
+    background-color:rgb(17, 0, 255);
+}
+b{
+    background-color: rgb(13, 255, 0);
+}
+span{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.menu{
+    text-align: center;
+}
+.menu ul li{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    
+   
+}
